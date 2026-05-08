@@ -16,4 +16,3 @@ directory = "/"
 print("List of files in the directory:", os.listdir(directory))
 
 
-# 51 minutes
